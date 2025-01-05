@@ -1,0 +1,50 @@
+[
+    {
+        "ReviewID": "R001",
+        "CustomerName": "Sarah Ahmed",
+        "AdventureID": "MT001",
+        "Rating": 5,
+        "ReviewText": "An unforgettable experience! The Boga Lake trek was challenging but worth every step. The guide was knowledgeable, and the eco-friendly initiatives were commendable.",
+        "ReviewDate": "2024-11-15"
+    },
+    {
+        "ReviewID": "R002",
+        "CustomerName": "Michael Roy",
+        "AdventureID": "MT003",
+        "Rating": 4,
+        "ReviewText": "The Sajek to Purbachhara trail was beautiful, and I loved how the organizers prioritized sustainability. However, the accommodation could be improved.",
+        "ReviewDate": "2024-11-10"
+    },
+    {
+        "ReviewID": "R003",
+        "CustomerName": "Nazia Khan",
+        "AdventureID": "MT007",
+        "Rating": 5,
+        "ReviewText": "Trekking to Nafakhum Waterfall was an incredible journey! The pristine beauty and eco-friendly measures made it a guilt-free adventure.",
+        "ReviewDate": "2024-10-28"
+    },
+    {
+        "ReviewID": "R004",
+        "CustomerName": "John Doe",
+        "AdventureID": "MT009",
+        "Rating": 3,
+        "ReviewText": "Faipi Waterfall trek was scenic, but the trail was too slippery in some parts. Ensure you’re prepared for rough terrain!",
+        "ReviewDate": "2024-10-20"
+    },
+    {
+        "ReviewID": "R006",
+        "CustomerName": "Rajib Das",
+        "AdventureID": "MT002",
+        "Rating": 4,
+        "ReviewText": "Chimbuk Hill Sunrise Trek was awe-inspiring! I wish we could have spent more time at the summit. Guides were fantastic.",
+        "ReviewDate": "2024-09-30"
+    },
+    {
+        "ReviewID": "R010",
+        "CustomerName": "Abdullah Al Mamun",
+        "AdventureID": "MT004",
+        "Rating": 4,
+        "ReviewText": "Nilgiri Hill trekking was a great family adventure. Couldn’t ask for a better view of the sunrise!",
+        "ReviewDate": "2024-09-25"
+    }
+]
